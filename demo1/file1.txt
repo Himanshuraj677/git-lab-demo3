@@ -3,4 +3,6 @@ My ansme is Himanshu Raj
 git commit
 Lets try to merge feature branch to master branch
 Let try to merge master branch in feature branch
+commmit without staging area
 commmit without staging areaf
+let check for experiment 3
