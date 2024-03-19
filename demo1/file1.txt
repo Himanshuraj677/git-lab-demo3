@@ -3,3 +3,4 @@ My ansme is Himanshu Raj
 git commit
 Lets try to merge feature branch to master branch
 Let try to merge master branch in feature branch
+commmit without staging area to csolve merge conflict
