@@ -12,3 +12,5 @@ git fetch and rebase
 some content for feature branch
 some information for next tag
 cherry pick first commmit
+cherry pick first commmit
+cherrry pick 2nd comiit
