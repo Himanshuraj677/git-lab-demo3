@@ -6,5 +6,7 @@ Let try to merge master branch in feature branch
 commmit without staging area
 commmit without staging areaf
 let check for experiment 3
+some content i have written
 let try to add something
 git fetch and rebase
+some content for feature branch
